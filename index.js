@@ -1,6 +1,6 @@
-import * as THREE from "node_modules/three/build/three.module.js";
-import {OrbitControls} from "node_modules/three/examples/jsm/controls/OrbitControls.js";
-import gsap from "node_modules/gsap/gsap-core.js"
+import * as THREE from "./node_modules/three/build/three.module.js";
+import {OrbitControls} from "./node_modules/three/examples/jsm/controls/OrbitControls.js";
+import gsap from "./node_modules/gsap/gsap-core.js"
 
 // import * from "./node_modules/three/examples/fonts/helvetiker_bold.typeface.json"
 import * as pp from "./post-processing.js";
